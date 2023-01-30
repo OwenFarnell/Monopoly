@@ -1,0 +1,41 @@
+40
+Other GO none 400 0
+Property Titled_Towers none 60 1 false 2 50 10 30 90 250 0 Brown
+Other Legendary_Chest none 0 2
+Property Tomato_Town none 60 3 false 4 50 20 60 180 450 0 Brown
+Other Storm_Damage none 100 4
+Railroad Skull_Trooper_Railroad none 200 5 25 50 100 200
+Property Lucky_Landing none 100 6 false 6 50 30 90 270 550 0 Light_Blue
+Other Supply_Drop none 0 7
+Property Dusty_Depot none 100 8 false 6 50 30 90 270 550 0 Light_Blue
+Property Anarchy_Acres none 120 9 false 8 50 40 100 300 600 0 Light_Blue
+Other Jail none 0 10
+Property Wailing_Woods none 140 11 false 10 100 50 150 450 750 0 Pink
+Utility Gold_Scar none 150 12
+Property Salty_Springs none 140 13 false 10 100 50 150 450 750 0 Pink
+Property Loot_Lake none 160 14 false 12 100 60 180 500 900 0 Pink
+Railroad Black_Knight_Railroad none 200 15 25 50 100 200
+Property Greasy_Grove none 180 16 false 14 100 70 200 550 950 0 Orange
+Other Legendary_Chest none 0 17
+Property Fatal_Fields none 180 18 false 14 100 70 200 550 950 0 Orange
+Property Lonely_Lodge none 200 19 false 16 100 80 220 600 1000 0 Orange
+Other Free_Vbucks none 0 20
+Property Moisty_Mire none 220 21 false 18 150 90 250  700 1050 0 Red
+Other Supply_Drop none 0 22
+Property Pleasant_Park none 220 23 false 18 150 90 250 700 1050 0 Red
+Property Illinois_Avenue none 240 24 false 20 150 100 300 750 1100 0 Red
+Railroad Renegade_Raider_Railroad none 200 25 25 50 100 200
+Property Flush_Factory none 260 26 false 22 150 110 330 800 1150 0 Yellow
+Property Tomato_Temple none 260 27 false 22 150 110 330 800 1150 0 Yellow
+Utility Rocket_Launcher none 150 28
+Property Viking_Village none 280 29 false 24 150 120 360 850 1200 0 Yellow
+Other Go_To_Jail none 0 30
+Property Lazy_Links none 300 31 false 26 200 130 390 900 1275 0 Green
+Property Paradise_Palms none 300 32 false 26 200 130 390 900 1275 0 Green
+Other Legendary_Chest none 0 33
+Property Snobby_Shores none 320 34 false 28 200 150 450 1000 1400 0 Green
+Railroad Omega_Line none 200 35 25 50 100 200
+Other Supply_Drop none 0 36
+Property Haunted_Hills none 350 37 false 35 200 175 500 1100 1500 0 Dark_Blue
+Other Vbuck_Tax none 200 38
+Property Retail_Row none 400 39 false 50 200 200 600 1400 2000 0 Dark_Blue

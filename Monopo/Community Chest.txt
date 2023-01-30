@@ -1,0 +1,17 @@
+16
+Move 0
+Money 200
+Money -50
+Money 50
+GetOutOfJail
+GoToJail
+Money 100
+Money 20
+Money 10
+Money 100
+Money -100
+Money -50
+Money -25
+MoneyPer -40 -115
+Money 10
+Money 100
